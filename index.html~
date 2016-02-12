@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="images/favicon/antena.svg" type="image/svg+xml">
     <link rel="icon" href="images/favicon/antena.svg" type="image/svg+xml">
 
-    <title>Servicios TeleKom</title>
+    <title>Soluciones TeleKom</title>
 	
     <!--Library Styles-->    
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -48,7 +48,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="index.html#">
-                        <img src="images/logo.png" alt="logo">
+                        <img src="images/solucionesTelekom.svg" alt="logo">
                     </a>
                 </div>
 
