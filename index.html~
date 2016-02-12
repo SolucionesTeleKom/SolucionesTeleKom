@@ -6,8 +6,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 	
-    <link rel="shortcut icon" href="images/favicon/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon/antena.svg" type="image/x-icon">
+    <link rel="icon" href="images/favicon/antena.svg" type="image/x-icon">
 
     <title>Servicios TeleKom</title>
 	
@@ -438,7 +438,7 @@
                         <div class="row mg-bt-60">
                             <div class="col-md-12">
                                 <ul class="client-slider">
-                                    <li><img src="images/clients/logo1.png" alt="logo-1"></li>
+                                    <li><img src="images/clients/ardu.svg" alt="logo-1"></li>
                                     <li><img src="images/clients/logo2.png" alt="logo-1"></li>
                                     <li><img src="images/clients/logo3.png" alt="logo-1"></li>
                                     <li><img src="images/clients/logo4.png" alt="logo-1"></li>
