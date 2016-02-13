@@ -199,10 +199,10 @@ footer .social a i{
     padding: 60px;
 }
 #container section {
-    background: #f7f8f9;
+    background: #6F6F6F;
 }
 #container section.gray {
-    background: #eceff1;
+    background: #304258;
     
 }
 .mg-bt-80 {
