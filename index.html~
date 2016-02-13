@@ -47,7 +47,7 @@
                         <span class="icon-bar"></span>
 			<span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
+                     
                     </button>
                     <a class="navbar-brand" href="index.html#">
                         <img src="images/solucionesTelekom.svg" alt="logo">
@@ -592,7 +592,7 @@
                             <a href="javascript:;"><i class="fa fa-dribbble"></i></a>
                         </div>
                         <p>
-                            © 2016 <a href="http://scripteden.com/">Soluciones TeleKom </a> | Images <a href="https://pixabay.com/">Pixabay</a>
+                            © 2016 <a href="https://solucionestelekom.github.io/">Soluciones TeleKom </a> | Images <a href="https://pixabay.com/">Pixabay</a>
                         </p>                        
                     </div>
                 </div>
