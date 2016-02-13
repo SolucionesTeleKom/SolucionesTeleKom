@@ -440,13 +440,13 @@
                                 <ul class="client-slider">
                                     <li><img src="images/clients/ardu.svg" alt="logo-1"></li>
                                     <li><img src="images/clients/logo2.png" alt="logo-1"></li>
-                                    <li><img src="images/clients/logo3.png" alt="logo-1"></li>
+                                    <li><img src="images/clients/cisco.jpg" alt="logo-1"></li>
                                     <li><img src="images/clients/logo4.png" alt="logo-1"></li>
                                     <li><img src="images/clients/logo5.png" alt="logo-1"></li>
                                     <li><img src="images/clients/logo_udo2.png" alt="logo-1"></li>
                                     <li><img src="images/clients/logo7.png" alt="logo-1"></li>
-                                    <li><img src="images/clients/logoUdo.png" alt="logo-1"></li>
-                                    <li><img src="images/clients/logo9.png" alt="logo-1"></li>
+                                    <li><img src="images/clients/logo8.png" alt="logo-1"></li>
+                                    <li><img src="images/clients/trendnet.jpg" alt="logo-1"></li>
                                 </ul>
                             </div>
                         </div>
@@ -556,7 +556,7 @@
                             <ul class="office">
                                 <li><i class="fa fa-map-marker"></i> <strong>Dirección:</strong> Maturín, Venezuela</li>
                                 <li><i class="fa fa-phone"></i> <strong>Teléfonos:</strong> (0900) telekom , (0550) 888-8888</li>
-                                <li><i class="fa fa-envelope"></i> <strong>Correo:</strong> <a href="solucionestelekom@gmail.com">solucionestelekom@gmail.com</a></li>
+                                <li><i class="fa fa-envelope"></i> <strong>Correo:</strong> <a href="#">solucionestelekom@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
