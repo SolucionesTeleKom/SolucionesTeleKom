@@ -1,13 +1,4 @@
 /*
-Template Name: Team
-Author: Shahriar
-Author URI: http://scripteden.com/
-Description: Team - Creative Business Portfolio
-Version: 1.0.0
-License: Released under the MIT license - http://opensource.org/licenses/MIT
-*/
-
-/*
     [ IMPORT RESOURCES ]
 */
  @import url(http://fonts.googleapis.com/css?family=Raleway:200,300,400,500);
@@ -134,11 +125,13 @@ footer .social a:hover {
 footer .social a i{
     line-height: 28px;
 }
-
+.icon-bar {
+    background: #36465C !important;
+}
 #menu {
     position: fixed;
     width: 220px;
-    background: #fff;
+    background: #000;
     height: 100%;
     left: 0;
     font-family:'Raleway', sans-serif;
@@ -155,17 +148,18 @@ footer .social a i{
     border-radius: 0;
     background: transparent;
     border: none;
-    padding-top: 20%;
+    padding-top: 0%;
 }
 #menu .navbar-collapse {
     padding-left: 20px;
+    padding-top: 20px;
 }
 #menu .navbar-header, #menu .navbar-nav, #menu .navbar-nav li {
     float: none;
     margin-left: -10px;
 }
 #menu .navbar-default .navbar-nav>li>a {
-    color: #232a2f;
+    color: #7F7F7F;
     font-size: 13px;
     font-weight: 300;
     letter-spacing:1.5px;
@@ -177,7 +171,7 @@ footer .social a i{
 }
 #menu .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     background: transparent;
-    color: #9B59B6;
+    color: #35455B;
 }
 #menu .navbar-nav {
     margin: 7.5px -15px;
@@ -205,8 +199,8 @@ footer .social a i{
     padding: 60px;
 }
 #container section {
-    background: url(../images/contacto.jpg) no-repeat 0px 0px;
-}	       
+    background: #f7f8f9;
+}
 #container section.gray {
     background: #eceff1;
     
@@ -746,6 +740,7 @@ footer .social a i{
  .contact {
     position: relative;
 }
+.contact
 .contact form {
     margin-bottom: 40px;
 }
@@ -1093,7 +1088,7 @@ footer .social a i{
     .sidebar {
         padding-left: 15px;
     }
-    #menu .navbar {
+     .navbar {
         padding-top: 20px;
     }
     #menu .navbar-brand {
