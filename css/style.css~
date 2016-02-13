@@ -148,7 +148,7 @@ footer .social a i{
     border-radius: 0;
     background: transparent;
     border: none;
-    padding-top: 0%;
+    padding-top: 20%;
 }
 #menu .navbar-collapse {
     padding-left: 20px;
@@ -1088,12 +1088,13 @@ footer .social a i{
     .sidebar {
         padding-left: 15px;
     }
-     .navbar {
+    #menu .navbar {
         padding-top: 20px;
     }
     #menu .navbar-brand {
         padding-bottom: 0;
     }
+    
     #container {
         margin-left: 0;
     }
