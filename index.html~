@@ -178,7 +178,7 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="service">
                                     <div class="icon-holder">
-                                        <i class="fa fa-rocket"></i>
+                                        <i class="fa fa-wrench"></i>
                                     </div>
                                     <h3 class="heading">Servicios adicionales</h3>
                                     <p class="description">-------------------------------</p>
@@ -409,7 +409,7 @@
                                     </div>
                                     <div class="desc">
                                         <h3>Rubén Espinoza</h3>
-                                        <span>TSU. en Nothing</span>
+                                        <span>Hay andamos.</span>
                                         <div class="social">
                                             <a href="javascript:;"><i class="fa fa-facebook"></i></a>
                                             <a href="javascript:;"><i class="fa fa-twitter"></i></a>
@@ -439,9 +439,9 @@
                         <div class="row mg-bt-60">
                             <div class="col-md-12">
                                 <ul class="client-slider">
+				   <li><img src="images/clients/cisco.jpg" alt="logo-1"></li>
                                     <li><img src="images/clients/ardu.svg" alt="logo-1"></li>
                                     <li><img src="images/clients/ubiquiti.jpg" alt="logo-1"></li>
-                                    <li><img src="images/clients/cisco.jpg" alt="logo-1"></li>
                                     <li><img src="images/clients/logo4.png" alt="logo-1"></li>
                                     <li><img src="images/clients/alfa.jpg" alt="logo-1"></li>
                                     <li><img src="images/clients/logo_udo2.png" alt="logo-1"></li>
