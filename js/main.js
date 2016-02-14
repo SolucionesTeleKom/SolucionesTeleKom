@@ -117,8 +117,8 @@ jQuery(document).ready(function() {
         };
 
         if ((c_name == '' || c_email == '' || c_message == '') || (!isValidEmailAddress(c_email))) {
-            response.fadeIn(500);
-            response.html('<i class="fa fa-warning"></i> Please fix the errors and try again.');
+            response.fadeIn(500);			
+            response.html('<i class="fa fa-warning"></i> Por favor corrija los errores, e intente de nuevo.');
         }
 
         else {
