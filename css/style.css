@@ -156,6 +156,7 @@ footer .social a i{
 #menu .navbar-collapse {
     padding-left: 20px;
     padding-top: 20px;
+    margin-top: 10px;	
 }
 #menu .navbar-header, #menu .navbar-nav, #menu .navbar-nav li {
     float: none;

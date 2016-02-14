@@ -775,7 +775,7 @@ footer .social a i{
 }
 
 .office  a:link {color: white}
-.office a:hover {color: ##E2E2E2;}
+.office a:hover {color: #E2E2E2;}
 
 /* ====== Blog Page ====== */
  #container section.blog {
