@@ -61,7 +61,7 @@ jQuery(document).ready(function() {
                 // height: '30%',  //  optionally resize item-height
                 visible: {
                     min: 1,
-                    max: 4
+                    max: 5
                 }
             }
         });
