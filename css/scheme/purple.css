@@ -16,7 +16,10 @@ a{
 .call-ta h2{border-left:3px solid #36465C;}
 
 .contact form input,.contact form textarea{border-left:1px solid #36465C;}
+
 .contact form input:focus,.contact form textarea:focus{border:1px solid #36465C;}
+
+.contact .address 
 
 #primary .pagination li:hover a{background:#36465C;}
 #primary .pagination li.active a{background:#36465C;}
