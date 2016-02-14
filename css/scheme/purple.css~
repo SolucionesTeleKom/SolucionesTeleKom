@@ -1,10 +1,15 @@
-a{color:#36465C;}
+a{
+	color:#36465C;
+}
+
 #menu .navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus{color:#36465C;}
+.navbar-default .navbar-nav>.active> a:hover,
+.navbar-default .navbar-nav>.active> a:focus{color:#36465C;}
 .footer-toogle .hover i{color:#36465C;}
 .totop:hover span>a.hover{color:#36465C;}
+
 .social-icon li:hover a{background:#36465C;}
+
 .home .slides-navigation a:hover{color:#36465C;}
 .services .services-icon{background:#36465C;}
 .testimonial .icon-testimonial{color:#36465C;}

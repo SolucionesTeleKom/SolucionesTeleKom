@@ -128,6 +128,9 @@ footer .social a i{
 .icon-bar {
     background: #36465C !important;
 }
+.email-telekom {
+	color: white;
+}
 #menu {
     position: fixed;
     width: 220px;
@@ -681,7 +684,7 @@ footer .social a i{
     margin: 0 auto;
 }
 .clients .client-slider li {
-    margin: 15px 15px;
+    margin: 10px 10px;
     display: inline-block;
     text-align: center;
 }
@@ -770,6 +773,10 @@ footer .social a i{
     padding: 0;
     line-height: 25px;
 }
+
+.office  a:link {color: white}
+.office a:hover {color: ##E2E2E2;}
+
 /* ====== Blog Page ====== */
  #container section.blog {
     padding-top: 100px;
