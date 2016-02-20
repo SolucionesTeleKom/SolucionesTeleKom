@@ -40,4 +40,5 @@ form .form-control:focus,form textarea:focus{border:1px solid #36465C;}
 .to-top-btn:hover{color: #36465C;}
 .sidebar .widget ul li a:hover {color: #36465C;}
 .btn:hover{color: #36465C;border-color: #36465C;}
-
+.blog-btn , .blog-btn:link{color: azure; border-color: azure;}
+.blog-btn:hover{color: black; border-color: black;}
