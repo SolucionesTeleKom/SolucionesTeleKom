@@ -1126,6 +1126,8 @@ footer .social a i{
     }
     .home .slide-text {
         left: 0;
+	position: relative;
+    	top: 228px;
     }
     .home .slides-navigation {
         bottom: 0%;
@@ -1193,6 +1195,7 @@ footer .social a i{
     .home .slide-text h2 {
         font-size: 35px;
         line-height: 45px;
+	
     }
     .home .slide-text span {
         font-size: 18px;
