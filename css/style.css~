@@ -1500,10 +1500,10 @@ form .form-control:focus, form textarea:focus {
     top:  50px;
 }
 .slide-text .btn-lg .btn-primary, .slide-text .btn-primary:hover{
-    color: azure; 
-    border-color: azure; 
+    color: #35455B; 
+    border-color: #35455B; 
     background-color: transparent;
-    top: 20px;
+    top: 50px;
  }
 /*
     WELL
