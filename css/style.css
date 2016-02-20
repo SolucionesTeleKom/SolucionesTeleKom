@@ -394,6 +394,21 @@ footer .social a i{
     right: 47px;
 }
 
+.slide-text  .btn-lg .btn-primary, .slide-text .btn-primary:link{
+    color: azure;
+    border-color: azure;
+    background-color: transparent;
+    position:  relative;
+    top:  50px;
+}
+.slide-text , .btn-lg .btn-primary, .slide-text .btn-primary:hover{
+    color: #35455B; 
+    border-color: #35455B; 
+    background-color: transparent;
+    position: relative;	
+    top: 50px;
+ }
+
 
 /* ====== Services ====== */
 
@@ -1492,19 +1507,7 @@ form .form-control:focus, form textarea:focus {
     height: auto;
 
 }
-.slide-text .btn-lg .btn-primary, .slide-text .btn-primary:link{
-    color: azure;
-    border-color: azure;
-    background-color: transparent;
-    position:  relative;
-    top:  50px;
-}
-.slide-text .btn-lg .btn-primary, .slide-text .btn-primary:hover{
-    color: #35455B; 
-    border-color: #35455B; 
-    background-color: transparent;
-    top: 50px;
- }
+
 /*
     WELL
 */
