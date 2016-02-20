@@ -1503,7 +1503,7 @@ form .form-control:focus, form textarea:focus {
     color: azure; 
     border-color: azure; 
     background-color: transparent;
-    top: 20px;
+    top: 50px;
  }
 /*
     WELL
