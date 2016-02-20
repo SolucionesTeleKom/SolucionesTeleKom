@@ -21,10 +21,11 @@ h3, h4, h5 {
     margin-bottom: 30px;
 }
 p {
-    font-size: 16px;
+        font-size: 16px;
     line-height: 28px;
     font-weight: 300;
-    margin-bottom: 30px;
+    position: relative;
+    bottom: 55px;
 }
 iframe{
     border:0;
