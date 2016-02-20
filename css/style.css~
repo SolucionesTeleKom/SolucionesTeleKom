@@ -1490,7 +1490,7 @@ form .form-control:focus, form textarea:focus {
 }
 .blog-btn{
     height: auto;
-    color: azure;
+
 }
 /*
     WELL

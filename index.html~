@@ -99,6 +99,7 @@
                                 <h2>AUDITORÍAS Y ASESORAMIENTO</h2>
                                 <span>SEGURIDAD DE LA INFORMACIÓN, APLICACIÓN DE LAS TECNOLOGÍAS Y ESTÁNDARES, NORMAS ISO.</span>
                                 <br/>
+				<a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a>
                             </div>
                             <div class="slide-filter"></div>
                             <img src="images/slider/arduSat.png" class="par" alt="first">
@@ -153,7 +154,7 @@
                                     </div>
                                     <h3 class="heading">Principios y Valores</h3>
                                     <p class="description">La equidad como base integral de todas nuestras relaciones.</p>
-				    <p class="description">El respeto como base de nuestras comunicaciones, en el trato a nuestros clientes.</p>
+				    <p class="description">El respeto como base de nuestras comunicaciones, a nuestros clientes.</p>
 				     <p class="description">La delegación de funciones aceptando como principio la responsabilidad.</p>
 				</div>
                             </div>
@@ -178,60 +179,60 @@
                     
                     <div class="col-md-12">
                         <ul class="portfolioFilter text-center">
-                            <li data-filter="websites">DISEÑOS</li>
-                            <li data-filter="illustrations">PLANOS</li>
-                            <li data-filter="photo">FOTOS</li>
+                            <li data-filter="redes">REDES</li>
+                            <li data-filter="planos">PLANOS</li>
+                            <li data-filter="codigo">DISEÑO DE APPS</li>
                             <li data-filter="all">TODO</li>
                         </ul>
                     </div>
                     <div class="col-md-12 mg-bt-80">
                         <div class="row portfolioContainer  text-center">
-                            <div class="col-md-4 col-xs-6 portfolio-item websites">
-                                <a class="popup" href="images/portfolio/portfolio-thumb-1.jpg" data-lightbox-gallery="team-portfolio">
+                            <div class="col-md-4 col-xs-6 portfolio-item planos">
+                                <a class="popup" href="images/portfolio/unaEmpresa3D.jpg" data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
-                                        <span>Programación Web 
+                                        <span>Diseño 3D 
                                         </span>
                                     </span>
-                                    <img src="images/portfolio/portfolio-thumb-1.jpg" alt="portfolio-thumb-1">
+                                    <img src="images/portfolio/unaEmpresa3D.jpg" alt="portfolio-thumb-1">
                                 </a>
                             </div>
-                            <div class="col-md-4 col-xs-6 portfolio-item illustrations">
-                                <a class="popup" href="images/portfolio/java.png" data-lightbox-gallery="team-portfolio">
+                            <div class="col-md-4 col-xs-6 portfolio-item codigo">
+                                <a class="popup" href="images/portfolio/java.png" title="Java Servlet" data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
-                                        <span>DISEÑOS DE APPS
+                                        <span>JAVA
                                         </span>
                                     </span>
-                                    <img src="images/portfolio/portfolio-thumb-5.jpg" alt="portfolio-thumb-5">
+                                    <img src="images/portfolio/java.png" alt="portfolio-thumb-5">
                                 </a>
                             </div>
                             <div class="col-md-4 col-xs-6 portfolio-item websites">
-                                <a class="popup" href="images/portfolio/portfolio-thumb-3.jpg" title="Image with title"  data-lightbox-gallery="team-portfolio">
+                                <a class="popup" href="images/portfolio/odroid.jpg" title="Odroid U3 vs RasberryPy"  data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
                                         <span>HARDWARE
                                         </span>
                                     </span>
-                                    <img src="images/portfolio/portfolio-thumb-3.jpg" alt="portfolio-thumb-3">
+                                    <img src="images/portfolio/odroid.jpg" alt="portfolio-thumb-3">
                                 </a>
                             </div>
-                            <div class="col-md-4 col-xs-6 portfolio-item photo">
-                                <a class="popup" href="images/portfolio/portfolio-thumb-4.jpg" data-lightbox-gallery="team-portfolio">
+                            <div class="col-md-4 col-xs-6 portfolio-item planos">
+                                <a class="popup" href="images/portfolio/planoUnaEmpresa.png" title="plano Una Empresa" data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
-                                        <span>Códigos
+                                        <span>Diseño 2D
                                         </span>
                                     </span>
-                                    <img src="images/portfolio/portfolio-thumb-4.jpg" alt="portfolio-thumb-4">
+                                    <img src="images/portfolio/planoUnaEmpresa.png" alt="portfolio-thumb-4">
                                 </a>
                             </div>
-                            <div class="col-md-4 col-xs-6 portfolio-item websites">
-                                <a class="popup" href="images/portfolio/portfolio-thumb-2.jpg" data-lightbox-gallery="team-portfolio">
+                            <div class="col-md-4 col-xs-6 portfolio-item redes">
+                                <a class="popup" href="images/portfolio/11.png" data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
                                         <span>Redes
                                         </span>
                                     </span>
-                                    <img src="images/portfolio/portfolio-thumb-2.jpg" alt="portfolio-thumb-2">
+                                    <img src="images/portfolio/11.png" alt="portfolio-thumb-2">
                                 </a>
                             </div>
-                            <div class="col-md-4 col-xs-6 portfolio-item illustrations">
+                            <div class="col-md-4 col-xs-6 portfolio-item photo">
                                 <a class="popup" href="images/portfolio/portfolio-thumb-6.jpg" data-lightbox-gallery="team-portfolio">
                                     <span class="project-hover">
                                         <span>Marketing 
@@ -447,7 +448,7 @@
                         </figure>
                         <div class="post-area">
                             <a class="post-cat" href="">
-                                <h4>Diseños</h4>
+                                <h4>Una Empresa</h4>
                             </a>
                             <a class="post-title" href="blog-post.html">
                                 <h3>--------------------------------------------------</h3>
