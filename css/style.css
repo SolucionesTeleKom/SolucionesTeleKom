@@ -1126,8 +1126,7 @@ footer .social a i{
     }
     .home .slide-text {
         left: 0;
-	position: relative;
-    	top: 228px;
+	
     }
     .home .slides-navigation {
         bottom: 0%;
@@ -1218,6 +1217,14 @@ footer .social a i{
     }
 }
 
+@media only screen and (min-width: 320px) and (max-width: 700px){    
+  
+  .home .slide-text {
+        left: 0;
+       position :relative;
+       top: 300px;
+    }
+}
 
 
 @media only screen and (min-width: 871px) and (max-width: 991px){    
