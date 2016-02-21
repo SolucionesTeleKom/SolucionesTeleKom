@@ -1221,8 +1221,7 @@ footer .social a i{
   
   .home .slide-text {
         left: 0;
-       position :relative;
-       top: 200px;
+       position : fixed;
     }
 }
 
